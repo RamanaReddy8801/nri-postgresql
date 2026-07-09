@@ -10,7 +10,7 @@ Unreleased section should follow [Release Toolkit](https://github.com/newrelic/r
 ## Unreleased
 
 ### security
-- Updated filippo.io/edwards25519 to v1.1.1 to address GHSA-fw7p-63qq-7hpr (CVE-2026-26958)
+- Updated filippo.io/edwards25519 to v1.1.1
 
 ## v2.28.1 - 2026-06-26
 
